@@ -1,0 +1,2 @@
+1.split(Mat,Vector)  将一个图像按照通道拆开
+2.merge(Vector,Mat)  将多个通道合并
