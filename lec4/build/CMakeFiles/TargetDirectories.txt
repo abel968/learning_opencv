@@ -1,0 +1,5 @@
+/home/jlurobot/CXTDevelop/learning_opencv/lec4/build/CMakeFiles/edit_cache.dir
+/home/jlurobot/CXTDevelop/learning_opencv/lec4/build/CMakeFiles/AddRoi.dir
+/home/jlurobot/CXTDevelop/learning_opencv/lec4/build/CMakeFiles/LinearBlending.dir
+/home/jlurobot/CXTDevelop/learning_opencv/lec4/build/CMakeFiles/rebuild_cache.dir
+/home/jlurobot/CXTDevelop/learning_opencv/lec4/build/CMakeFiles/hello.dir
