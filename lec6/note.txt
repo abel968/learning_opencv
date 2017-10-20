@@ -1,0 +1,2 @@
+1.createTrackbar() 创建轨迹条
+2.回调函数  要求格式为  void xxxx(int, void *)

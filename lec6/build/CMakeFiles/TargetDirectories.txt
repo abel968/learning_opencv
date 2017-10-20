@@ -1,0 +1,4 @@
+/home/jlurobot/CXTDevelop/learning_opencv/lec6/build/CMakeFiles/edit_cache.dir
+/home/jlurobot/CXTDevelop/learning_opencv/lec6/build/CMakeFiles/hello.dir
+/home/jlurobot/CXTDevelop/learning_opencv/lec6/build/CMakeFiles/rebuild_cache.dir
+/home/jlurobot/CXTDevelop/learning_opencv/lec6/build/CMakeFiles/UseTrackbar.dir
